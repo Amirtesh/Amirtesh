@@ -1,11 +1,12 @@
--Hi, Amiresh here.
+Hi, I'm Amiresh 👋
+I am passionate about Machine Learning, Deep Learning, and Bioinformatics. Currently, I am pursuing a B.Tech in Biotechnology from VIT Vellore, where I am honing my skills in both computational and biological sciences.
 
--I am interested in machine learning,deep learning and bioinformatics.
-
--Currently pursuing B.tech in Biotechnology from VIT Vellore
-
--Current skills in ML: Machine learning with scikit learn,xgboost,lightbgm and catboost, Deep learning with pytorch neural networks
-
--Current skills in bioinformatics : Protein-ligand docking with Autodock vina, Smina, Swissdock, Autodock 4.2, Molecular dynamics simulation with gromacs, MMPBSA analysis with gmx_MMPPBSA, Usage of SwissADME, Protox, MolSoft, pkcsm and other important tools in computational drug discovery
-
--Contact me : amirtesh21.5@gmail.com
+🚀 Current Skills:
+Machine Learning:
+Proficient in Scikit-learn, XGBoost, LightGBM, and CatBoost for building predictive models.
+Hands-on experience in implementing Deep Learning techniques using PyTorch and building neural networks.
+Bioinformatics:
+Expertise in Protein-Ligand Docking using tools like AutoDock Vina, Smina, SwissDock, and AutoDock 4.2.
+Experienced in Molecular Dynamics Simulations with GROMACS for studying molecular behavior.
+Proficient in MMPBSA analysis using gmx_MMPBSA to calculate binding free energies.
+Well-versed in computational drug discovery tools such as SwissADME, Protox, MolSoft, pkcsm, and more
