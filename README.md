@@ -6,7 +6,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 
 ### Machine Learning:
 - Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.
-- Hands-on experience in implementing **Deep Learning** techniques using **PyTorch** and building neural networks.
+- Hands-on experience in implementing **Deep Learning** techniques using **PyTorch** and building neural networks to work on tabular and image data.
 
 ### Bioinformatics:
 - Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, and **AutoDock 4.2**.
