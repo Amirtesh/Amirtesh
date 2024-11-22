@@ -1,6 +1,6 @@
 # Hi, I'm Amiresh 👋
 
-I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformatics**. Currently, I am pursuing a **B.Tech in Biotechnology** from **VIT Vellore**, where I am honing my skills in both computational and biological sciences.
+I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformatics**. Currently, I am pursuing a **B.Tech in Biotechnology** from **VIT Vellore**, currently in 2nd year, where I am honing my skills in both computational and biological sciences.
 
 ## 🚀 Current Skills:
 
