@@ -13,3 +13,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
 - Usage of **computational drug discovery** tools such as **SwissADME**, **Protox**, **MolSoft**, **pkcsm**, and more.
+
+### 📫 **Let’s Connect**  
+Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
+[LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a) | [GitHub](github.com/Amirtesh) | [Email](amirtesh21.5@gmail.com) 
