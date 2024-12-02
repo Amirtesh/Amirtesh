@@ -16,4 +16,5 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 
 ### 📫 **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
-[LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a) | [GitHub](github.com/Amirtesh) | [Email](amirtesh21.5@gmail.com) 
+[LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)
+Email- amirtesh21.5@gmail.com
