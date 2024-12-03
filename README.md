@@ -14,6 +14,10 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
 - Usage of **computational drug discovery** tools such as **SwissADME**, **Protox**, **MolSoft**, **pkcsm**, and more.
 
+### R Programming:
+-Basics of usage of dplyr, ggplot2 and other basic data analysis and visualization libraries in R.
+-Basics of machine learning in R.
+
 ### 📫 **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)
