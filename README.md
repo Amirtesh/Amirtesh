@@ -15,8 +15,8 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Usage of **computational drug discovery** tools such as **SwissADME**, **Protox**, **MolSoft**, **pkcsm**, and more.
 
 ### R Programming:
--Basics of usage of dplyr, ggplot2 and other basic data analysis and visualization libraries in R.
--Basics of machine learning in R.
+- Basics of data analysis and visualization libraries such as dplyr and ggplot2 in R.
+- Basics of machine learning with R.
 
 ### 📫 **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
