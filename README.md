@@ -12,7 +12,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, **AutoDock 4.2** and **ADFR suite** for both rigid and flexibile docking.
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
-- Usage of **computational drug discovery** tools such as **SwissADME**, **Protox**, **MolSoft**, **pkcsm**, and more.
+- Usage of **computational drug discovery** tools such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.
 - Basics of **RDKit** in python for working with molecules
 
 ### R Programming:
