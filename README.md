@@ -1,4 +1,4 @@
-# Hi, I'm Amirtesh Raghuram 👋
+# Hi, I'm Amirtesh Raghuram 
 
 I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformatics**. Currently, I am pursuing a **B.Tech in Biotechnology** from **VIT Vellore** (2nd year), where I am honing my skills in both computational and biological sciences.
 
@@ -18,6 +18,7 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 ### R Programming:
 - Basics of data analysis and visualization libraries such as dplyr and ggplot2 in R.
 - Basics of machine learning with R.
+  
 
 ### 📫 **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
