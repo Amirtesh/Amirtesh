@@ -8,16 +8,19 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.
 - Proficient in implementing **Deep Learning** techniques using **PyTorch** and building neural networks to work on tabular and image data, along with basics of Tensorflow.
 
-### Bioinformatics:
-- Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, **AutoDock 4.2** and **ADFR suite** for both rigid and flexibile docking.
-- Performing **Molecular Dynamics Simulations** with **GROMACS**.
-- Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
-- Usage of **computational drug discovery** tools such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.
-- Basics of **RDKit** in python for working with molecules
-- BioPython:
-        - Usage of BioPython libraries to read and process biological sequence files
-        - Usage of sequence alignment tools: ClustalW, MUSCLE, EMBOSS Needle and Water (Both inside python and EMBL web tools)
-        - Familiar with pairwise sequence alignment 
+### **Bioinformatics:**
+- Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
+- Performing **Molecular Dynamics Simulations** with **GROMACS**.  
+- Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.  
+- Ussage of **computational drug discovery tools** such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.  
+- Usage of **RDKit** in Python for working with molecules.  
+- **BioPython**:
+  - Reading and processing biological sequence files in formats such as **FASTA** and **GenBank**.  
+  - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
+  - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via the EMBL web tools).  
+  - Writing output files in various biological formats.  
+  - Familiar with **pairwise sequence alignment** for sequence similarity studies.  
+
 
 ### R Programming:
 - Basics of data analysis and visualization libraries such as dplyr and ggplot2 in R.
