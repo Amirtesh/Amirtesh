@@ -16,7 +16,8 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Usage of **RDKit** in Python for working with molecules.  
 - **BioPython**:
   - Reading and processing biological sequence files in formats such as **FASTA** and **GenBank**.  
-  - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
+  - Creating and manipulating **SeqRecord** and **SeqFeature** objects.
+  - Reading in sequence alignment files.
   - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via the EMBL web tools).  
   - Writing output files in various biological formats.  
   - Familiar with **pairwise sequence alignment** for sequence similarity studies.  
