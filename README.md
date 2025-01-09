@@ -14,6 +14,10 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
 - Usage of **computational drug discovery** tools such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.
 - Basics of **RDKit** in python for working with molecules
+- BioPython:
+        - Usage of BioPython libraries to read and process biological sequence files
+        - Usage of sequence alignment tools: ClustalW, MUSCLE, EMBOSS Needle and Water (Both inside python and EMBL web tools)
+        - Familiar with pairwise sequence alignment 
 
 ### R Programming:
 - Basics of data analysis and visualization libraries such as dplyr and ggplot2 in R.
