@@ -20,7 +20,8 @@ I am passionate about **Machine Learning**, **Deep Learning**, and **Bioinformat
   - Reading in sequence alignment files.
   - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via the EMBL web tools).  
   - Writing output files in various biological formats.  
-  - Familiar with **pairwise sequence alignment** for sequence similarity studies.  
+  - Familiar with **pairwise sequence alignment** for sequence similarity studies.
+  - Familiar wiith **BLAST** for sequence similarity searches and running **blastn**, **blastp**, **blastx**, and **tblastn** using both the **NCBI browser** and **Biopython**.
 
 
 ### R Programming:
