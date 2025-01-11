@@ -9,7 +9,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Proficient in implementing **Deep Learning** techniques using **PyTorch** and building neural networks to work on tabular and image data, along with basics of Tensorflow.
 
 ### **Bioinformatics:**
-- Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
+- Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**,**QVina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.  
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
 - Usage of molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python molecular viewer(PMV)**, **Autodock Tools**, **Discovery Studio Visualizer**.
