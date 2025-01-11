@@ -11,7 +11,8 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 ### **Bioinformatics:**
 - Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.  
-- Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.  
+- Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.
+- Usage of molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python molecular viewer(PMV)**, **Autodock Tools**, **Discovery Studio Visualizer**.
 - Ussage of **computational drug discovery tools** such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.  
 - Usage of **RDKit** in Python for working with molecules.  
 - **BioPython**:
