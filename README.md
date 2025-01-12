@@ -2,7 +2,7 @@
 
 I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioinformatics**. I am currently in my second year, pursuing a B.Tech in Biotechnology at VIT, Vellore, where I am developing my computational and bioinformatics skills actively. 
 
-## 🚀 Current Skills:
+## Current Skills:
 
 ### Machine Learning:
 - Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.
@@ -31,7 +31,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Basics of machine learning with R.
   
 
-### 📫 **Let’s Connect**  
+### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)
 
