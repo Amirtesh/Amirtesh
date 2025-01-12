@@ -7,6 +7,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 ### Machine Learning:
 - Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.
 - Proficient in implementing **Deep Learning** techniques using **PyTorch** and building neural networks to work on tabular and image data, along with basics of Tensorflow.
+- I have also created a simple library called [Torchify](https://github.com/Amirtesh/Pytorch-Torchify) which can be used to quickly train models built with **PyTorch** with various simple methods like **compile**, **fit**, **predict** and quickly evaluating performance of the model on a dataset with **performance** method.
 
 ### **Bioinformatics:**
 - Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **QVina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
