@@ -24,6 +24,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Writing output files in various biological formats.  
   - Familiar with **pairwise sequence alignment** for sequence similarity studies.
   - Familiar wiith **BLAST** for sequence similarity searches and running **blastn**, **blastp**, **blastx**, and **tblastn** using both the **NCBI browser** and **Biopython**.
+  - Basics of using **Bio.Phylo** for working with phylogenetic data.
 
 
 ### R Programming:
