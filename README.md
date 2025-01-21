@@ -26,11 +26,11 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Familiar with **BLAST** for sequence similarity searches and running **blastn**, **blastp**, **blastx**, and **tblastn** using both the **NCBI browser** and **Biopython**.  
   - Basics of using **Bio.Phylo** for working with phylogenetic data.  
 - **RNA-Seq Analysis**:
-  - Performing **quality checks** on FASTQ files using tools like **FastQC**.  
-  - **Trimming raw reads** with **Trimmomatic**.  
+  - Performing **quality checks** on FASTQ files using **fastqc** tools.  
+  - **Trimming raw reads** with **trimmomatic**.  
   - Aligning sequences to reference genomes using **HISAT2**.  
-  - Building a **feature count matrix** using the **featureCounts** tool from Subread.  
-  - Automating RNA-seq workflows for multiple FASTQ files using **bash scripts**.  
+  - Building a **feature count matrix** using the **featureCounts** tool from **subread**.  
+  - Automating RNA-seq workflows for multiple FASTQ files to create combined counts data and meta data using **bash scripts**.  
 
 
 
