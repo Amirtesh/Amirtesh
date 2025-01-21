@@ -16,7 +16,6 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Usage of molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python Molecular Viewer (PMV)**, **AutoDock Tools**, and **Discovery Studio Visualizer**.  
 - Usage of **computational drug discovery tools** such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.  
 - Usage of **RDKit** in Python for working with molecules.  
-
 - **BioPython**:
   - Reading and processing biological sequence files in formats such as **FASTA** and **GenBank**.  
   - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
@@ -26,7 +25,6 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Familiar with **pairwise sequence alignment** for sequence similarity studies.  
   - Familiar with **BLAST** for sequence similarity searches and running **blastn**, **blastp**, **blastx**, and **tblastn** using both the **NCBI browser** and **Biopython**.  
   - Basics of using **Bio.Phylo** for working with phylogenetic data.  
-
 - **RNA-Seq Analysis**:
   - Performing **quality checks** on FASTQ files using tools like **FastQC**.  
   - **Trimming raw reads** with **Trimmomatic**.  
