@@ -54,7 +54,8 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Running differential expression analysis and saving results.  
   - Interpreting p-values and adjusted p-values (**padj**) and identifying significantly expressed genes.  
   - Filtering results based on cutoff values.  
-  - Converting **ENSEMBL IDs** to gene names for better biological interpretation.  
+  - Converting **ENSEMBL IDs** to gene names for better biological interpretation.
+  - Performing quality checks on the data after performing differential expression of gene analysis by building **PCA plots**, estimating **Size factors** and building **Dispersion plots**.
   
 
 ### **Let’s Connect**  
