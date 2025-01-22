@@ -12,7 +12,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Experience with **data manipulation** and **visualization** libraries, including:  
   - **NumPy** and **Pandas** for data manipulation and analysis.  
   - **Matplotlib** and **Seaborn** for creating insightful visualizations.  
-- Developed a library called [**Torchify**](https://github.com/Amirtesh/Pytorch-Torchify) to simplify PyTorch workflows with features like **model.compile()**, **model.fit()**, **model.precit()**, and **model.performance()**.  
+- Developed a library called [**Torchify**](https://github.com/Amirtesh/Pytorch-Torchify) to simplify PyTorch workflows with features like **model.compile()**, **model.fit()**, **model.predict()**, and **model.performance()**.  
 
 #### R:  
 - Basics of data analysis and visualization using **dplyr** and **ggplot2**.  
