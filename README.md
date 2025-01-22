@@ -43,8 +43,8 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 ---
 
 ### **RNA-Seq Analysis**  
-- Performing **quality checks** on FASTQ files using **FastQC**.  
-- **Trimming raw reads** with **Trimmomatic**.  
+- Performing **quality checks** on FASTQ files using **fastqc**.  
+- **Trimming raw reads** with **trimmomatic**.  
 - Aligning sequences to reference genomes using **HISAT2**.  
 - Building a **feature count matrix** using the **featureCounts** tool from **Subread**.  
 - Automating RNA-seq workflows for multiple FASTQ files to create combined counts data and metadata using **bash scripts**.  
