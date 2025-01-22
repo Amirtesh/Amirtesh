@@ -35,7 +35,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Reading and processing sequence files in formats like **FASTA** and **GenBank**.  
   - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
   - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via EMBL web tools).  
-  - Automating **BLAST** for sequence similarity searches, running **blastn**, **blastp**, **blastx**, and **tblastn**.  
+  - Using **BLAST** for sequence similarity searches - **blastn**, **blastp**, **blastx**, and **tblastn**.  
   - Working with phylogenetic data using **Bio.Phylo**.  
   - Writing output files in various biological formats.  
   - Familiar with **pairwise sequence alignment** for similarity studies.  
