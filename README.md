@@ -2,42 +2,53 @@
 
 I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioinformatics**. I am currently in my second year, pursuing a B.Tech in Biotechnology at VIT, Vellore, where I am developing my computational and bioinformatics skills actively. 
 
-## Current Skills:
+## **Current Skills**
 
-### Machine Learning:
-- Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.
-- Proficient in implementing **Deep Learning** techniques using **PyTorch** and building neural networks to work on tabular and image data, along with basics of Tensorflow.
-- I have also created a simple library called [Torchify](https://github.com/Amirtesh/Pytorch-Torchify) which can be used to quickly train models built with **PyTorch** with various simple methods like **compile**, **fit**, **predict** and quickly evaluating performance of the model on a dataset with **performance** method. It only requires the building of model and removes the boilerplate code for training it and also can include various features such as **learning rate scheduling**, **gradient clipping** and plotting of essential metrics to see the training progress of the model.
+### **Data Science and Machine Learning**  
+#### Python:  
+- Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.  
+- Proficient in implementing **Deep Learning** techniques using **PyTorch** for tabular and image data, with experience in building neural networks.  
+- Basics of **TensorFlow** for deep learning tasks.  
+- Experience with **data manipulation** and **visualization** libraries, including:  
+  - **NumPy** and **Pandas** for data manipulation and analysis.  
+  - **Matplotlib** and **Seaborn** for creating insightful visualizations.  
+- Developed a library called [**Torchify**](https://github.com/Amirtesh/Pytorch-Torchify) to simplify PyTorch workflows with features like **model compilation**, **training (fit)**, **predictions**, and performance evaluation.  
 
-### **Bioinformatics:**
+#### R:  
+- Basics of data analysis and visualization using **dplyr** and **ggplot2**.  
+- Basics of machine learning workflows in R.  
+
+---
+
+### **Computational Drug Discovery**  
 - Performing **Protein-Ligand Docking** using tools like **AutoDock Vina**, **Smina**, **QVina**, **SwissDock**, **AutoDock 4.2**, and **ADFR suite** for both rigid and flexible docking.  
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.  
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.  
-- Usage of molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python Molecular Viewer (PMV)**, **AutoDock Tools**, and **Discovery Studio Visualizer**.  
-- Usage of **computational drug discovery tools** such as **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, **pkcsm**, and more.  
-- Usage of **RDKit** in Python for working with molecules.  
-- **BioPython**:
-  - Reading and processing biological sequence files in formats such as **FASTA** and **GenBank**.  
+- Using molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python Molecular Viewer (PMV)**, **AutoDock Tools**, and **Discovery Studio Visualizer**.  
+- Proficient in **RDKit** for cheminformatics, including molecular descriptor calculation, fingerprint generation, and chemical property prediction.  
+- Utilizing computational tools for drug discovery, including **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, and **pkcsm**.  
+
+---
+
+### **BioPython**  
+- Proficient in using **BioPython** for bioinformatics tasks, including:  
+  - Reading and processing sequence files in formats like **FASTA** and **GenBank**.  
   - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
-  - Reading in sequence alignment files.  
-  - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via the EMBL web tools).  
+  - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via EMBL web tools).  
+  - Automating **BLAST** for sequence similarity searches, running **blastn**, **blastp**, **blastx**, and **tblastn**.  
+  - Working with phylogenetic data using **Bio.Phylo**.  
   - Writing output files in various biological formats.  
-  - Familiar with **pairwise sequence alignment** for sequence similarity studies.  
-  - Familiar with **BLAST** for sequence similarity searches and running **blastn**, **blastp**, **blastx**, and **tblastn** using both the **NCBI browser** and **Biopython**.  
-  - Basics of using **Bio.Phylo** for working with phylogenetic data.  
-- **RNA-Seq Analysis**:
-  - Performing **quality checks** on FASTQ files using **fastqc** tools.  
-  - **Trimming raw reads** with **trimmomatic**.  
-  - Aligning sequences to reference genomes using **HISAT2**.  
-  - Building a **feature count matrix** using the **featureCounts** tool from **subread**.  
-  - Automating RNA-seq workflows for multiple FASTQ files to create combined counts data and meta data using **bash scripts**.  
+  - Familiar with **pairwise sequence alignment** for similarity studies.  
 
+---
 
+### **RNA-Seq Analysis**  
+- Performing **quality checks** on FASTQ files using **fastqc**.  
+- **Trimming raw reads** with **Trimmomatic**.  
+- Aligning sequences to reference genomes using **HISAT2**.  
+- Building a **feature count matrix** using the **featureCounts** tool from **Subread**.  
+- Automating RNA-seq workflows for multiple FASTQ files to create combined counts data and metadata using **bash scripts**.  
 
-
-### R Programming:
-- Basics of data analysis and visualization libraries such as dplyr and ggplot2 in R.
-- Basics of machine learning with R.
   
 
 ### **Let’s Connect**  
