@@ -53,9 +53,11 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Performing quality control on input data (e.g., row/column name checks and removing low-count reads).  
   - Running differential expression analysis and saving results.  
   - Interpreting p-values and adjusted p-values (**padj**) and identifying significantly expressed genes.  
-  - Filtering results based on cutoff values.  
-  - Converting **ENSEMBL IDs** to gene names for better biological interpretation.
-  - Performing quality checks on the data after performing differential expression of gene analysis by building **PCA plots**, estimating **Size factors** and building **Dispersion plots**.
+  - Filtering results based on cutoff values (e.g., alpha and fold change).  
+  - Converting **ENSEMBL IDs** to gene names for better biological interpretation.  
+  - Performing quality checks on the data after differential expression analysis by building **PCA plots**, estimating **size factors**, and building **dispersion plots**.  
+- Visualizing RNA-seq results by creating **MA plots**, **volcano plots**, and **heatmaps** in R.  
+- Performing **Gene Ontology (GO)** and **KEGG pathway analysis** of top genes after differential expression analysis using the **DAVID tool** online.  
   
 
 ### **Let’s Connect**  
