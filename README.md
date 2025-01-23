@@ -57,7 +57,11 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Converting **ENSEMBL IDs** to gene names for better biological interpretation.  
   - Performing quality checks on the data after differential expression analysis by building **PCA plots**, estimating **size factors**, and building **dispersion plots**.  
 - Visualizing RNA-seq results by creating **MA plots**, **volcano plots**, and **heatmaps** in R.  
-- Performing **Gene Ontology (GO)** and **KEGG pathway analysis** of top genes after differential expression analysis using the **DAVID tool** online.  
+- Performing **Gene Ontology (GO)** and **KEGG pathway analysis** of top genes after differential expression analysis using the **DAVID tool** online.
+- **PyDESeq2** in Python, including:  
+    - Loading `counts.csv` and `metadata.csv` files for DEA.  
+    - Running differential expression analysis and filtering results in Python.  
+    - Interpreting and visualizing results using Python.
   
 
 ### **Let’s Connect**  
