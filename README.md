@@ -9,7 +9,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Proficient in **Scikit-learn**, **XGBoost**, **LightGBM**, and **CatBoost** for building predictive models.  
 - Proficient in implementing **Deep Learning** techniques using **PyTorch** for tabular and image data, with experience in building neural networks.  
 - Basics of **TensorFlow** for deep learning tasks.  
-- Experience with **data manipulation** and **visualization** libraries, including:  
+- Knowledge of **data manipulation** and **visualization** libraries, including:  
   - **NumPy** and **Pandas** for data manipulation and analysis.  
   - **Matplotlib** and **Seaborn** for creating insightful visualizations.  
 - Developed a library called [**Torchify**](https://github.com/Amirtesh/Pytorch-Torchify) to simplify PyTorch workflows with features like **model.compile()**, **model.fit()**, **model.predict()**, and **model.performance()**.  
@@ -25,13 +25,13 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Performing **Molecular Dynamics Simulations** with **GROMACS**.  
 - Performing **MMPBSA analysis** using **gmx_MMPBSA** to calculate binding free energies.  
 - Using molecular visualization and modification tools such as **PyMol**, **Chimera**, **Python Molecular Viewer (PMV)**, **AutoDock Tools**, and **Discovery Studio Visualizer**.  
-- Proficient in **RDKit** for cheminformatics, including molecular descriptor calculation, fingerprint generation, and chemical property prediction.  
+- Usage of **RDKit** in Python for cheminformatics, including molecular descriptor calculation, fingerprint generation, and chemical property prediction.  
 - Utilizing computational tools for drug discovery, including **SwissADME**, **Swiss Target Prediction**, **Swiss Similarity**, **Protox**, **MolSoft**, and **pkcsm**.  
 
 ---
 
 ### **BioPython**  
-- Proficient in using **BioPython** for bioinformatics tasks, including:  
+- Usage of **BioPython** for bioinformatics tasks, including:  
   - Reading and processing sequence files in formats like **FASTA** and **GenBank**.  
   - Creating and manipulating **SeqRecord** and **SeqFeature** objects.  
   - Performing sequence alignment using tools like **ClustalW**, **MUSCLE**, and **EMBOSS Needle/Water** (both within Python and via EMBL web tools).  
