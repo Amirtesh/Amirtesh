@@ -58,12 +58,9 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Performing quality checks on the data after differential expression analysis by building **PCA plots**, estimating **size factors**, and building **dispersion plots**.  
 - Visualizing RNA-seq results by creating **MA plots**, **volcano plots**, and **heatmaps** in R.  
 - Performing **Gene Ontology (GO)** and **KEGG pathway analysis** of top genes after differential expression analysis using the **DAVID tool** online.
-- **PyDESeq2** in Python, including:  
-    - Loading `counts.csv` and `metadata.csv` files for DEA.  
-    - Running differential expression analysis and filtering results in Python.  
-    - Interpreting and visualizing results using Python.
-  
-
+- **PyDESeq2** in Python for performing differential expression analysis and interpretation and visualization of results.
+- **DEGA** in Python for performing differential expression analysis along with results interpretation and visualizations.
+   
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)
