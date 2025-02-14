@@ -64,37 +64,17 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 ---  
 
 ### **In Silico Vaccine Design**  
-#### **1. Epitope Prediction**  
-- **B-cell epitopes** using **IEDB** (all 6 methods + overlapping sequences).  
-- **Tc-cell epitopes** using **NetCTL** (primary) + **IEDB Class I** (verification).  
-- **Th-cell epitopes** using **IEDB Class II**.  
-
-#### **2. Epitope Property Analysis**  
-- **Antigenicity** using **ANTIGENpro** + **VaxiJen**.  
-- **Allergenicity** using **AllerCatPro**, **AllergenFP**, and **AllerTOP**.  
-- **Toxicity** using **ToxinPred**.  
-
-#### **3. Primary Vaccine Construct**  
-- Fusion of epitopes with linkers + adjuvant selection.  
-
-#### **4. Physicochemical Properties**  
-- **ProtParam** for molecular weight, pI, GRAVY, instability index, etc.  
-- **SolPro** for solubility prediction.  
-
-#### **5. Secondary Structure Prediction**  
-- **SOPMA** + **PSIPRED** for alpha-helices, beta-sheets, and coils.  
-
-#### **6. Tertiary Structure Prediction & Validation**  
-- **MODELLER/I-TASSER/AlphaFold** for 3D structure prediction.  
-- **Ramachandran Plot (PROCHECK)** for structural validation.  
-
-#### **7. Molecular Docking with Receptor**  
-- **HADDOCK** for vaccine-receptor interaction (e.g., TLR-4, MHC).  
-- **FireDock/ClusPro** for docking refinement (if needed).  
-
-#### **8. Molecular Dynamics Simulation**  
-- **GROMACS** for stability check of vaccine-receptor complex.  
-
+- **Epitope Prediction**: Prediction of **B-cell, Tc-cell, and Th-cell epitopes** using **IEDB (all 6 methods, overlapping sequences), NetCTL, and IEDB Class I/II**.  
+- **Epitope Property Analysis**: Proficient in evaluating **antigenicity (ANTIGENpro, VaxiJen), allergenicity (AllerCatPro, AllerTOP, AllerFP), and toxicity (ToxinPred)** of predicted epitopes.  
+- **Vaccine Construct Design**: **Constructing primary vaccine sequences** by fusing epitopes with appropriate **linkers and adjuvants**.  
+- **Physicochemical Property Analysis**: Experienced in analyzing **molecular weight, pI, GRAVY, instability index (ProtParam), and solubility (SolPro)**.  
+- **Structural Predictions**:  
+  - **Secondary structure prediction** using **SOPMA and PSIPRED**.  
+  - **Tertiary structure modeling** using **Swiss-Model, I-TASSER, and AlphaFold**.  
+  - **Structural validation** through **Ramachandran plots** and **Z score analysis**.  
+- **Molecular Docking**:  
+  - **Protein-protein (receptor-vaccine) docking** using **HADDOCK**.  
+- **Molecular Dynamics Simulation**: Experienced in performing **MD simulations of vaccine-receptor complexes** using **GROMACS** to assess stability and interactions.  
 
 ---  
 
