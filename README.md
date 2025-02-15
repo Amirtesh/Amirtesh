@@ -64,7 +64,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 ---  
 
 ### **In Silico Vaccine Design**  
-- **Epitope Prediction**: Prediction of **B-cell, Tc-cell, and Th-cell epitopes** using **IEDB (all 6 methods, overlapping sequences), NetCTL, and IEDB Class I/II**.  
+- **Epitope Prediction**: Prediction of **B-cell, Tc-cell, and Th-cell epitopes** using **IEDB (all 6 methods), NetCTL, and IEDB Class I/II**.  
 - **Epitope Property Analysis**: Proficient in evaluating **antigenicity (ANTIGENpro, VaxiJen), allergenicity (AllerCatPro, AllerTOP, AllerFP), and toxicity (ToxinPred)** of predicted epitopes.  
 - **Vaccine Construct Design**: **Constructing primary vaccine sequences** by fusing epitopes with appropriate **linkers and adjuvants**.  
 - **Physicochemical Property Analysis**: Experienced in analyzing **molecular weight, pI, GRAVY, instability index (ProtParam), and solubility (SolPro)**.  
