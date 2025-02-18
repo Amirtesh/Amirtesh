@@ -48,7 +48,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - Aligning sequences to reference genomes using **HISAT2**.  
 - Building a **feature count matrix** using the **featureCounts** tool from **Subread**.  
 - Automating RNA-seq workflows for multiple FASTQ files to create combined counts data and metadata using **bash scripts**.  
-- Performing **Differential Expression Analysis** using **DESeq2** in R, including:  
+- Performing **Differential Expression Analysis** using **DESeq2** and **edgeR** in R, including:  
   - Loading counts and metadata to create DESeq datasets.  
   - Performing quality control on input data (e.g., row/column name checks and removing low-count reads).  
   - Running differential expression analysis and saving results.  
