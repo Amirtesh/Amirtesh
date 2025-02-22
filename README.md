@@ -77,6 +77,15 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 
 ---  
 
+### **Single-Cell RNA-Seq (scRNA-Seq) Analysis using Seurat package of R**  
+- **Preprocessing & Quality Control**: Filtering low-quality cells, removing doublets using **DoubletFinder**.  
+- **Normalization & Scaling**: Using default methods in **Seurat** and using **SCTransform** for faster and more accurate normalization.  
+- **Dimensionality Reduction & Clustering**: Performing **PCA, UMAP, t-SNE** for visualizing cell populations.  
+- **Differential Gene Expression Analysis**: Identifying **marker genes for each cluster**.  
+- **Cell Type Annotation**: Assigning biological identities to clusters using marker genes.  
+
+---
+
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
