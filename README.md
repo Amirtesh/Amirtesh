@@ -82,7 +82,8 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Normalization & Scaling**: Using default methods in **Seurat** and using **SCTransform** for faster and more accurate normalization.  
 - **Dimensionality Reduction & Clustering**: Performing **PCA, UMAP, t-SNE** for visualizing cell populations.  
 - **Differential Gene Expression Analysis**: Identifying **marker genes for each cluster**.  
-- **Cell Type Annotation**: Assigning biological identities to clusters using marker genes.  
+- **Cell Type Annotation**: Assigning biological identities to clusters using marker genes.
+- **Trajectory Analysis**: Using **Monocle3** with Seurat objects to infer **cell differentiation pathways** and **pseudotime trajectories**.
 
 ---
 
