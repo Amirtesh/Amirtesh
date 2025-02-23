@@ -84,6 +84,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Differential Gene Expression Analysis**: Identifying **marker genes for each cluster**.  
 - **Cell Type Annotation**: Assigning biological identities to clusters using marker genes.
 - **Trajectory Analysis**: Using **Monocle3** with Seurat objects to infer **cell differentiation pathways** and **pseudotime trajectories**.
+- **Chromatin Accessibility Analysis (scATAC-Seq)**: Using **Signac** to analyze **open chromatin regions** and integrate chromatin accessibility with gene expression. 
 
 ---
 
