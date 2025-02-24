@@ -88,6 +88,16 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 
 ---
 
+### **Weighted Gene Co-expression Network Analysis (WGCNA) in R**  
+- **Gene Co-expression Analysis**: Identifying highly co-expressed gene modules from RNA-Seq data.  
+- **Soft Thresholding Power Selection**: Using scale-free topology model fit to determine optimal soft threshold.  
+- **Module Detection**: Constructing **signed networks** and identifying gene modules using hierarchical clustering.  
+- **Trait Correlation Analysis**: Associating gene modules with phenotypic traits (e.g., disease severity).  
+- **Hub Gene Identification**: Detecting key hub genes in significant modules for further functional analysis.  
+- **Visualization & Interpretation**: Heatmaps, dendrograms, and module-trait correlation plots for better insights.  
+
+---
+
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
