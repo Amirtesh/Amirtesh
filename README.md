@@ -58,7 +58,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
   - Performing quality checks on the data after differential expression analysis by building **PCA plots**, estimating **size factors**, and building **dispersion plots**.  
 - Visualizing RNA-seq results by creating **MA plots**, **volcano plots**, and **heatmaps** in R.  
 - Performing **Gene Ontology (GO)** and **KEGG pathway analysis** of top genes after differential expression analysis using the **DAVID tool** online.
-- Performing **Geno Ontology (GO)** analysis using **clusterProfiler** package in R.
+- Performing **Geno Ontology (GO)** and **Gene Set Enrichment Analysis (GSEA)** analysis using **clusterProfiler** package in R.
 
 ---  
 
