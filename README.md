@@ -98,6 +98,13 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 
 ---
 
+### **Variant Calling Analysis**  
+- **Quality Control & Trimming**: Using **FastQC** and **MultiQC** for QC, and **Trimmomatic**/**Fastp** for adapter trimming.  
+- **Read Alignment**: Mapping reads to a **reference genome** using **HISAT2 (whole genome)** and **BWA (specific chromosome)**.  
+- **BAM File Processing**: Sorting, fixing coordinates, marking/removing duplicates, and indexing BAM files using **Samtools**.  
+- **Variant Calling & Filtering**: Identifying **SNPs and Indels** using **FreeBayes**, and filtering variants with **Bcftools**.  
+- **Variant Visualization**: Using **plotVCF** in **R** for visualizing called variants.  
+
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
