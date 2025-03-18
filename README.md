@@ -103,7 +103,19 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Read Alignment**: Mapping reads to a **reference genome** using **HISAT2 (whole genome)** and **BWA (specific chromosome)**.  
 - **BAM File Processing**: Sorting, fixing coordinates, marking/removing duplicates, and indexing BAM files using **Samtools**.  
 - **Variant Calling & Filtering**: Identifying **SNPs and Indels** using **FreeBayes**, and filtering variants with **Bcftools**.  
-- **Variant Visualization**: Using **plotVCF** in **R** for visualizing called variants.  
+- **Variant Visualization**: Using **plotVCF** in **R** for visualizing called variants.
+
+---
+
+### **ChIP-Seq Data Analysis**  
+- **Data Acquisition & Preprocessing**: Downloading ChIP-Seq data in **SRA format** and converting to **FASTQ** using **fastq-dump** or **fasterq-dump** from the NCBI toolkit.  
+- **Quality Control & Trimming**: Performing QC using **FastQC**, and trimming reads with **Fastp**.  
+- **Genome Alignment**: Mapping reads to a **reference genome** using **BWA**.  
+- **BAM File Processing**: Sorting BAM files, filtering reads with a Q value using **Samtools**.  
+- **Peak Calling**: Identifying enriched regions using **MACS2**.  
+- **Peak Annotation & Motif Finding**: Using **HOMER suite** (**annotatePeaks.pl**, **findMotifsGenome.pl**) to analyze regulatory elements.  
+
+
 
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
