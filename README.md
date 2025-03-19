@@ -113,7 +113,20 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Genome Alignment**: Mapping reads to a **reference genome** using **BWA**.  
 - **BAM File Processing**: Sorting BAM files, filtering reads with a Q value using **Samtools**.  
 - **Peak Calling**: Identifying enriched regions using **MACS2**.  
-- **Peak Annotation & Motif Finding**: Using **HOMER suite** (**annotatePeaks.pl**, **findMotifsGenome.pl**) to analyze regulatory elements.  
+- **Peak Annotation & Motif Finding**: Using **HOMER suite** (**annotatePeaks.pl**, **findMotifsGenome.pl**) to analyze regulatory elements.
+
+---
+
+### **Genome/Reads Assembly**  
+- **Short-Read Assembly**:  
+  - **Quality Control & Trimming**: Using **FastQC**, **MultiQC**, and **Porechop** for adapter trimming.  
+  - **Genome Assembly**: Assembling short reads using **SPAdes**.  
+  - **Visualization**: Inspecting assembly graphs using **Bandage**.  
+
+- **Long-Read Assembly**:  
+  - **Quality Control & Trimming**: Using **FastQC** and **Porechop** for long-read preprocessing.  
+  - **Genome Assembly**: Assembling long reads using **Flye**.  
+  - **Visualization**: Exploring assembly structures with **Bandage**.  
 
 
 
