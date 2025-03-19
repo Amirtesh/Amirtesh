@@ -113,7 +113,9 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Genome Alignment**: Mapping reads to a **reference genome** using **BWA**.  
 - **BAM File Processing**: Sorting BAM files, filtering reads with a Q value using **Samtools**.  
 - **Peak Calling**: Identifying enriched regions using **MACS2**.  
-- **Peak Annotation & Motif Finding**: Using **HOMER suite** (**annotatePeaks.pl**, **findMotifsGenome.pl**) to analyze regulatory elements.
+- **Peak Annotation & Motif Finding**:  
+  - Using **HOMER suite** (**annotatePeaks.pl**, **findMotifsGenome.pl**) to analyze regulatory elements.  
+  - Using **ChIPSeeker (R)** for **peak annotation** and performing **Gene Ontology (GO) and KEGG pathway analysis** on identified genes.  
 
 ---
 
