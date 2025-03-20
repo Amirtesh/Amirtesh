@@ -128,7 +128,15 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Long-Read Assembly**:  
   - **Quality Control & Trimming**: Using **FastQC** and **Porechop** for long-read preprocessing.  
   - **Genome Assembly**: Assembling long reads using **Flye**.  
-  - **Visualization**: Exploring assembly structures with **Bandage**.  
+  - **Visualization**: Exploring assembly structures with **Bandage**.
+
+---
+
+### **Metagenomics Data Analysis**  
+- **Quality Control & Trimming**: Performing QC using **FastQC** and trimming reads with **appropriate tools**.  
+- **Taxonomic Classification**: Using **Kraken2** with appropriate reference databases for microbial identification.  
+- **Abundance Estimation**: Quantifying microbial abundance using **Bracken**.  
+- **Visualization**: Creating taxonomy-based visualizations of identified microbes using **ktImportTaxonomy**.
 
 
 
