@@ -128,7 +128,7 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Long-Read Assembly**:  
   - **Quality Control & Trimming**: Using **FastQC** and **Porechop** for long-read preprocessing.  
   - **Genome Assembly**: Assembling long reads using **Flye**.  
-  - **Visualization**: Exploring assembly structures with **Bandage**.
+  - **Visualization**: Exploring assembly graphs with **Bandage**.
 
 ---
 
