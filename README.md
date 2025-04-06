@@ -138,7 +138,22 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Abundance Estimation**: Quantifying microbial abundance using **Bracken**.  
 - **Visualization**: Creating taxonomy-based visualizations of identified microbes using **ktImportTaxonomy**.
 
+---
 
+### **Genome-Wide Association Studies (GWAS) using PLINK**  
+- **Data Preparation & Conversion**: Converting input data into **PLINK binary format (BED, BIM, FAM)** for efficient computation.  
+- **Quality Control (QC)**:  
+  - Filtering samples and SNPs based on **missingness thresholds**.  
+  - Filtering based on **Minor Allele Frequency (MAF)** and **Hardy-Weinberg Equilibrium (HWE)** p-values.  
+- **Association Testing**:  
+  - Performing association tests using **plink --assoc**, **--logistic**, **--linear**, and **--model** commands depending on trait type (binary/quantitative).  
+- **Visualization**:  
+  - Creating **Manhattan plots** and **QQ plots** in **R** for GWAS result interpretation.  
+- **Result Interpretation**:  
+  - Extracting and filtering **top hits** based on p-value thresholds.  
+  - Annotating significant SNPs to genes for biological interpretation.
+
+---
 
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
