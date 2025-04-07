@@ -155,6 +155,18 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 
 ---
 
+### **DNA Methylation Data Analysis**
+- **Trimming**: Using **Trim Galore!** for adapter and quality trimming of bisulfite sequencing data.
+- **Alignment & Methylation Extraction**:  
+  - **Bismark** for genome preparation, alignment of bisulfite-treated reads, deduplication, and methylation extraction.
+- **Downstream Differential Methylation Analysis**:  
+  - **methylKit** to identify significantly differentially methylated cytosines (DMCs) across chromosomes.
+  - **annotatr** for annotation of DMCs with genomic features (promoters, CpG islands, etc.).
+  - **clusterProfiler** for **GO and KEGG pathway enrichment** analysis on annotated genes.
+
+---
+
+
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
