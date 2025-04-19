@@ -166,6 +166,22 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 
 ---
 
+### **Cancer Genomics**  
+- **Somatic Mutation Analysis**:  
+   - Visualizing mutation distributions and identifying key mutations using oncoplot, lollipopPlot, and rainfallPlot.  
+   - Exploring oncogenic drivers with Oncodrive.
+
+- **Tumor Heterogeneity and Clonality**:  
+   - Identifying clonal vs. subclonal mutations to understand tumor evolution.  
+   - Performing VAF-based clustering to determine clonal populations within tumors.
+
+- **Mutation Signature Analysis**:  
+   - Comparing COSMIC mutation signatures with own data to understand mutagenic processes.
+
+- **Co-occurrence and Mutual Exclusivity**:  
+   - Exploring co-occurring and mutually exclusive mutations to understand their role in tumor development.
+
+---
 
 ### **Let’s Connect**  
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
