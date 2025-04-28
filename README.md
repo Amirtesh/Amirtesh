@@ -2,6 +2,12 @@
 
 I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioinformatics**. I am currently in my second year, pursuing a B.Tech in Biotechnology at VIT, Vellore, where I am actively developing my computational and bioinformatics skills.  
 
+Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
+[LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
+
+**Email**: amirtesh21.5@gmail.com  
+**Porfolio website**: [Amirtesh-portfolio](amirtesh.github.io/Amirtesh-portfolio)
+
 ## **Current Skills**  
 
 ### **Data Science and Machine Learning**  
@@ -181,10 +187,5 @@ I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioin
 - **Co-occurrence and Mutual Exclusivity**:  
    - Exploring co-occurring and mutually exclusive mutations to understand their role in tumor development.
 
----
+---  
 
-### **Let’s Connect**  
-Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
-[LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
-
-**Email**: amirtesh21.5@gmail.com  
