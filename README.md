@@ -6,7 +6,7 @@ Feel free to reach out if you’d like to discuss projects, research, or opportu
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
 
 **Email**: amirtesh21.5@gmail.com  
-**Porfolio website**: [Amirtesh-portfolio](amirtesh.github.io/Amirtesh-portfolio)
+**Porfolio website**: [Amirtesh-portfolio](https://amirtesh.github.io/Amirtesh-portfolio/)
 
 ## **Current Skills**  
 
