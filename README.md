@@ -1,6 +1,6 @@
 # Hi, I'm Amirtesh Raghuram  
 
-I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioinformatics**. I am currently in my second year, pursuing a B.Tech in Biotechnology at VIT, Vellore, where I am actively developing my computational and bioinformatics skills.  
+I have a strong interest in **Machine Learning**, **Deep Learning**, and **Bioinformatics**. I am currently pursuing a B.Tech in Biotechnology at VIT, Vellore, where I am actively developing my computational and bioinformatics skills.  
 
 Feel free to reach out if you’d like to discuss projects, research, or opportunities!  
 [LinkedIn](https://in.linkedin.com/in/amirtesh-raghuram-90161828a)  
